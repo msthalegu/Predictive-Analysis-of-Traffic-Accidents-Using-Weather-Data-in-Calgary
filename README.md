@@ -1,6 +1,6 @@
 # **<center>Predictive Analysis of Traffic Accidents Using Weather Data in Calgary <center>**
 
-<center>Luisa Alejandra Sierra Guerra (30261956)<center>
+<center>Luisa Alejandra Sierra Guerra (30261956)<center> <br/>
   
 <center>Ali Afkhami (30271805)<center> <br/>
   
