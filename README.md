@@ -1,11 +1,11 @@
-# **<center>Impact Of Weather And Snowfall On Traffic Incidents <center>**
+# **<center>Predictive Analysis of Traffic Accidents Using Weather Data in Calgary <center>**
 
+<center>Luisa Alejandra Sierra Guerra (30261956)<center>
+  
 <center>Ali Afkhami (30271805)<center> <br/>
   
 <center>Evan Losier (30022571)<center> <br/>
   
-<center>Luisa Alejandra Sierra Guerra (30261956)<center>
-
 ## **Introduction**
 <p style='text-align:justify;'> This project is conducted by a multidisciplinary team: Ali Afkhami, a chemical engineer and data scientist with experience in both industries; Evan Losier, a computer scientist with experience in software development; and Alejandra Sierra, who holds a bachelor’s degree in marketing with experience in consumer behavior research. </p>
 
